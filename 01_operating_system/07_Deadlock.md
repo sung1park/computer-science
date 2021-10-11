@@ -109,7 +109,7 @@
 
 - **Resource Allocation Graph algorithm**
 
-  ![image-20211003161852158](07_Deadlock.assets/image-20211003161852158.png)
+  ![image-20211003161852158](operating_system.assets/image-20211003161852158.png)
 
   > 3번째 그림은 P1이 R2를 요청하면 deadlock이 발생하는 상황
   >
